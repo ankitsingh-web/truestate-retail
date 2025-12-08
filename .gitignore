@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build outputs
+dist/
+frontend/dist/
+backend/dist/
+
+# Environment files
+.env
+frontend/.env
+backend/.env
+
+# Large dataset CSV - do NOT push to GitHub
+backend/data/truestate_assignment_dataset.csv
+backend/data/*.csv
