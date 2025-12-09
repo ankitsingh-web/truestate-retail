@@ -12,7 +12,3 @@ backend/dist/
 .env
 frontend/.env
 backend/.env
-
-# Large dataset CSV - do NOT push to GitHub
-backend/data/truestate_assignment_dataset.csv
-backend/data/*.csv
